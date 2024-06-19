@@ -1,0 +1,15 @@
+{
+  "id": 946862,
+  "name": "don't use full code",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "mraadrsh45/registration-form",
+  "enforcement": "active",
+  "conditions": {},
+  "rules": [
+    {
+      "type": "creation"
+    }
+  ],
+  "bypass_actors": []
+}
